@@ -1,9 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-/* index.html */
-.button {
-    display: inline;
+h1 {
+    text-align: center;
+}
+.container {
+    display: flex;
+flex-direction: row;
+justify-content: center;
 }
 
-/* recipes */
