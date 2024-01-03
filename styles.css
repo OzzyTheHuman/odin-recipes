@@ -1,3 +1,44 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+    background: #181a1b;
+
+    color: white
+}
+
+a {
+    color: inherit;
+    text-decoration: wavy;
+}
+a:hover {
+    color: #ecda8b;
+}
+
+.home {
+    width: 1000px;
+    margin: auto;
+    margin-top: auto;
+    display: block;
+    margin-top: 150px;
+}
+
+.title {
+    border-width: 5px;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    color: #ecda8b;
+}
+
+.lihome {
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.ulhome {
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
