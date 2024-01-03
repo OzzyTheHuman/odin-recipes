@@ -4,7 +4,10 @@ body {
 
     color: white
 }
-
+.body-recipes {
+    width: 1200px;
+    margin: auto;
+}
 a {
     color: inherit;
     text-decoration: wavy;
@@ -29,6 +32,26 @@ a:hover {
     color: #ecda8b;
 }
 
+.title-recipes {
+    border-width: 10px;
+    padding: 1px;
+    text-align: center;
+    font-size: 40px;
+    color: #ecda8b;
+    
+}
+
+.desc {
+    border-bottom: solid #ecda8b;
+    border-top: solid #ecda8b;
+    border-width: 1px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .lihome {
     display: inline-block;
     list-style: none;
@@ -41,4 +64,62 @@ a:hover {
     text-align: center;
     margin: 0;
     padding: 0;
+}
+
+.ulrecipe {
+    list-style: none;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0;
+    font-size: 20px;
+}
+
+.lirecipe {
+    display: inline-block;
+    list-style: none;
+}
+
+.ingredients {
+    list-style: none;
+    font-size: 20px;
+}
+.ingredients-title {
+    font-size: 30px;
+    color: #ecda8b;
+}
+ul {
+    list-style: none; 
+    text-align: left;
+}
+ .liingredients::before {
+    content: "› "; color: #ecda8b;
+    padding: 2px;
+ }
+
+.instructions-title {
+display: block;
+padding: 0px;
+text-align: center;
+font-size: 30px;
+color: #ecda8b;
+}
+
+.instructions-disc {
+padding: 0px;
+font-size: 20px;
+
+}
+.ulinstructions-disc {
+    list-style: none; 
+    text-align: left;
+    font-size: 20px;
+}
+
+.liinstructions-disc::before{
+    content: "› "; color: #ecda8b;
+    padding: 2px;
+}
+.end {
+    color: #ecda8b;
+    font-size: 30px;
 }
