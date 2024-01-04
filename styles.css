@@ -75,7 +75,7 @@ a:hover {
 }
 
 .lirecipe {
-    display: inline-block;
+    display: block;
     list-style: none;
 }
 
