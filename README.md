@@ -1,10 +1,10 @@
 # Recipes
 
-Simple website that I made, while learning HTML and CSS with Odin-Project
+Simple website that I made, while learning HTML and CSS with [Odin-Project](https://www.theodinproject.com/about)
 
 ## Description
 
-This is my first project from Odin-Project. It features few recipes for cakes that you can bake. First it was simple black text on white background wtih few photos.
+This is my first project from [Odin-Project](https://www.theodinproject.com/about). It features few recipes for cakes that you can bake. First it was simple black text on white background wtih few photos.
 Later, I styled it with CSS. Its relatively simple, but its my first project. I learned how to push my work to git and how to write better commit messages too.
 
 ## How to install
