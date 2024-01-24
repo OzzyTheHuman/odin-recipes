@@ -13,7 +13,7 @@ You don't need to install anything except a simple browser that can display mode
 
 ## Authors 
 
-This site is created by me @OzzyTheHuman \
+This site is created by me [@OzzyTheHuman](https://github.com/OzzyTheHuman) \
 Recipes are from https://aniagotuje.pl/ ( I used this content for educational purposes ONLY !. I will not profit from this site monetarily or any other way. If author wishes so, I will delete/change all content that I used from this page.)
 
 
